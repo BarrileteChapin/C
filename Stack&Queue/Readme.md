@@ -70,4 +70,40 @@ For output command “Print”,
 
 --------------
 
+°Example: 
+
+((1+2)*9-2
+
+Print
+
+Dequeue 1
+
+Print
+
+Enqueue *
+
+Enqueue *
+
+Enqueue 3
+
+Print
+
+°°° OUTPUT
+
+((1+2)*9-2
+
+Invalid
+
+(1+2)*9-2
+
+12+9*2-
+
+25
+
+(1+2)*9-2**3
+
+Invalid
+
+---------
+
 -Date: 11/2020
