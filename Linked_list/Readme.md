@@ -1,12 +1,12 @@
 This is the implementation of a linkedlist with some functionalities: 
-- InsertFront _data____   
-- InsertBack __data____
+- InsertFront __data___   
+- InsertBack __data___
 - InsertBefore __element__ __data___
 - InsertBack __element__ __data___
 - Delete __element__
 - DeleteFront 
 - DeleteBack
-- Reverse __element (from)___   ___element (to)____ 
+- Reverse __element (from)___   ___element (to)___
 - Clear
 - Print
 
