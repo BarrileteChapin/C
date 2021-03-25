@@ -1,4 +1,4 @@
-This is the implementation of a linkedlist with some functionalities: 
+This is the implementation of a circular linkedlist with some functionalities: 
 - InsertFront __data___   
 - InsertBack __data___
 - InsertBefore __element__ __data___
