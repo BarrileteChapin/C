@@ -37,3 +37,4 @@ replacement policy and the LSB indexing scheme and (ii) find a valid indexing sc
   
   Total cache miss count: 5
   
+-- Note: this is not the final version of the project :)
